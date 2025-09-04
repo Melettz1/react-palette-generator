@@ -1,4 +1,4 @@
-# Nerd Palette React
+# Palette Generator React
 
 Projeto em React + Vite para gerar paletas de cores.
 
